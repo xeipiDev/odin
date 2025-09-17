@@ -11,3 +11,18 @@ html, body {
     justify-content: space-around;
     background-color: #1F2937;
 }
+
+.logo {
+    color: white;
+    font-size: 20px;
+    align-self: center;
+    padding: 10px;
+}
+
+.header-links {
+    display: flex;
+    list-style: none;
+    color: white;
+    align-items: center;
+    gap: 20px;
+}
